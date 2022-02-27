@@ -12,7 +12,7 @@
 	<groupId>com.sip</groupId>
 	<artifactId>projet_revision1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>projet_revision1</name>
 	<description>1er version révision </description>
 	<properties>
